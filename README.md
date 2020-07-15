@@ -4,7 +4,7 @@ Repositório criado para armazenamento de artefatos complementares (imagens do W
 Neste repositório se encontram:
 
 - As imagens da execução de diferentes algoritmos no Weka e no MOA:
-\"imagens Weka e MOA.docx"
+\"imagens Weka e MOA.pdf"
 
 - Arquivo .txt com um link para dataset original, conforme solicitado:
 \"Link para o dataset original.txt"
