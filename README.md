@@ -14,3 +14,6 @@ Neste repositório se encontram:
 
 - O dataset com tentativa de redução de dimensionalidade, em arquivo .ARFF compactado (.ZIP):
 \"csh101.reduzido.arff.zip"
+
+- Relatórios do Weka com os resultados (treino e teste de cada algoritmo) e os respectivos modelos gerados: 
+\"Relatórios do Weka e modelos.zip"
