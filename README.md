@@ -10,7 +10,7 @@ Neste repositório se encontram:
 \"Link para o dataset original.txt"
 
 - O dataset pré-processado, utilizado como entrada do Weka e do MOA (para treinar e testar os modelos), convertido em arquivo .ARFF, compactado em .ZIP:
-\csh101.integral.arff.zip
+\"csh101.integral.arff.zip"
 
 - O dataset com tentativa de redução de dimensionalidade, em arquivo .ARFF compactado (.ZIP):
-\csh101.reduzido.arff.zip
+\"csh101.reduzido.arff.zip"
