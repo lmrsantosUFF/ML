@@ -1,0 +1,3 @@
+Link para o dataset original:
+
+https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+from+Continuous+Ambient+Sensor+Data
