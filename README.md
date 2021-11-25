@@ -2,7 +2,7 @@
 
 <h1> Prediction of human activity in a smart home using Machine Learning on data collected by IoT sensors</h1><br>
 Leonardo M. R. Santos<br><br>
-<b>Abstract.</b> This work addresses the training and comparison of several machine-learning algorithms to attempt to predict what activity is being carried out at one specific moment by a smart home resident. More specifically, it deals with the problem of human activity recognition.
+<b>Abstract.</b> This work addresses the training and comparison of several machine-learning algorithms to attempt to predict what activity is being carried out at one specific moment by a smart home resident. More specifically, it deals with the problem of <i>human activity recognition</i>.
 <br><br>
 <b>Find in this repository:</b>
 
