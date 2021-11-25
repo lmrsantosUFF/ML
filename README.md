@@ -6,7 +6,7 @@ Leonardo M. R. Santos<br><br>
 <br><br>
 <b>Find in this repository:</b>
 
-- The final report on the experiment, with reseaches, analyses and conclusions:
+<p>The final report on the experiment, with reseaches, analyses and conclusions:</p>
 - \"FINAL REPORT - Leonardo Matsumoto.pdf"
 
 - The images of running different algorithms on Weka and MOA:
